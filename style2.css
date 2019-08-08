@@ -1,10 +1,4 @@
 
-li{
-    display:inline;
-    text-decoration: none;
-    padding:20px;
-}
-
 
 .message, .success, .error, .warning {
     border: 1px solid #ccc;
@@ -401,7 +395,10 @@ li{
   .margin-top-200{
     margin-top:200px;
   }
-  
+  .margin-top-300{
+    margin-top:300px;
+  }
+
   .letra_pequenha{
     font-size:70%;
   }
@@ -415,8 +412,8 @@ li{
   .recuadro{
     width: 100%;
     height: auto;
-    background-size: cover;
-    background-position: center;
+    position: relative;
+    line-height: 100px;
   }
   .display{
     display: inline-block;
