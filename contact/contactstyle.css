@@ -66,16 +66,6 @@ body {
     padding: 4rem;
 }
 
-.imagen{
-    background-image: url("https://images.pexels.com/photos/669228/pexels-photo-669228.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940");
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-}
-
-.mapa{
-    height: 600px;
-}
 
 #contacto {
     background: #141414;
@@ -87,7 +77,5 @@ body {
     color: rgba(255, 255, 255, 0.4);
   }
 
-  .mapa{
-      height: 500px;
-  }
+
   
