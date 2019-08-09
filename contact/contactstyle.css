@@ -1,8 +1,6 @@
 body {
     font-family: 'Montserrat', sans-serif;
-    margin:0 ;
-    padding:0;
-    border:0;
+
 }
 
 #home-jumbotron {
@@ -11,6 +9,7 @@ body {
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
+    clip-path: polygon(0% 0%,100% 0%, 100% 93%, 0% 97%);
 }
 
 .overlay {
@@ -89,3 +88,6 @@ margin-right: 10%;
     width: 65%;
 }
   
+/* img{
+  clip-path: polygon(0% 0%,100% 0%, 100% 90%, 0% 98%);
+} */
