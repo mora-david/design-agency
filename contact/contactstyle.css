@@ -86,4 +86,8 @@ body {
   .contactoclaro {
     color: rgba(255, 255, 255, 0.4);
   }
+
+  .mapa{
+      height: 500px;
+  }
   
